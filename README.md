@@ -12,7 +12,7 @@
 
 ## 🚀 Hakkımda
 
-- 🎓 Bilgisayar Mühendisliği mezunuyum (2025)  
+- 🎓 Bilgisayar Mühendisliği mezunuyum (2025). 
 - 📊 Veri analizi, iş analizi ve süreç geliştirme alanlarına odaklanıyorum.  
 - 🐍 Python’ın pandas ve numpy kütüphaneleriyle veri analiz becerilerimi güçlendiriyorum.
 - 🗄 PostgreSQL ile veri modelleme & sorgulama yapıyorum.  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Kullandığım ve Öğrendiğim Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 
 ### 📊 Veri Analitiği & Veri Bilimi
 <p>
